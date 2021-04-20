@@ -1,0 +1,7 @@
+name: VOGWands
+version: ${project.version}
+main: me.esmaybe.prophecy.VOGWands
+api-version: 1.16
+authors: [Esmaybe]
+commands:
+  vogwands:
